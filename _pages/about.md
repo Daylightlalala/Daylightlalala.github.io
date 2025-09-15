@@ -43,6 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
+- *2025.06* [Outstanding Graduate of Sichuan Province](https://xsc.cdut.edu.cn/info/1024/3034.htm)
 - *2024.09* [National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/202412/t20241230_1172663.html) (Undergraduate, Top 1%)
 
 # 📖 Educations
