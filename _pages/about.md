@@ -49,10 +49,12 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 - *2025.09 - now*, Master's Student, Sichuan University.
 - *2021.09 - 2025.06*, Honours Bachelor's Degree, Chengdu University of Technology.
-
+- 
+<!-- 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
